@@ -1,0 +1,19 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+body{
+    background-color: aliceblue;
+}
+#navbar{
+    height: 2em;
+    width: 100%;
+    display:inline-flex;
+   
+    background-color: white;
+}
+@media only screen and(min-width:470px){
+   h1{
+       font-size: 1.0rem;
+    } 
+}
